@@ -5,7 +5,7 @@
 <br>
 
 <p>
-    <img align="right" style="height:250px;" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="" />
+    <img align="right" style="height:200px;" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="" />
 </p>
 
 <br>
