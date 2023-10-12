@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mücahit Çetinkaya</h1>
 
-<h3 align="center">Junior .Net Web Developer🌟.</h3>
+<h3 align="center">Junior Full Stack Developer🌟.</h3>
 
 <br>
 
