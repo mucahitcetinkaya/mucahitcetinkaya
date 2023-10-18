@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-< align="left" witdh="320" height="320">
+<p align="left" witdh="320" height="320">
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
