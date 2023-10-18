@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" witdh="320" height="320">
+< align="left" witdh="320" height="320">
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -114,12 +114,13 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
   </a> -->
-  <p align="left">Database
-  <br/>
+ 
+  <p align="left">Database </p>
+  <p align="left">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  </p>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </p>
 
 </p>
 <!-- ---------------------------------------------------------------------------------------------------------------------------------------------------- -->
